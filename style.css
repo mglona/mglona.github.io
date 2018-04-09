@@ -26,7 +26,7 @@ h1 {
 
 hr {
 	margin-top: 150px;
-	border-color: orange;
+	border-color: transparent;
 	max-width: 100px;
 	border-width: 3px;
 	position: relative;
