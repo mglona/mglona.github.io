@@ -26,10 +26,10 @@ h1 {
 
 hr {
 	margin-top: 150px;
-	border-color: transparent;
+	border-color: orange;
 	max-width: 100px;
 	border-width: 3px;
 	position: relative;
-	left: 30px;
-	top: 20px;
+	left: 10px;
+	top: 10px;
 }
