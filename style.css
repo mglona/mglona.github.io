@@ -30,5 +30,5 @@ hr {
 	max-width: 100px;
 	border-width: 3px;
 	position: relative;
-	left: 1px;
+	right: 10px;
 }
