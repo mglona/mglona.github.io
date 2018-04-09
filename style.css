@@ -29,4 +29,6 @@ hr {
 	border-color: orange;
 	max-width: 100px;
 	border-width: 3px;
+	position: relative;
+	left: 50px;
 }
